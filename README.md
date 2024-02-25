@@ -1,0 +1,2 @@
+# earnings
+make daily earn 
